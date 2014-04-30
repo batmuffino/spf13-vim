@@ -15,6 +15,10 @@
 "   You can find me at http://spf13.com
 " }
 
+nnoremap : ;
+nnoremap ; :
+
+
 " Environment {
 
     " Identify platform {
